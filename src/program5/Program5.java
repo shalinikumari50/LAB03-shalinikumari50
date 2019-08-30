@@ -51,6 +51,7 @@ public class Program5 {
                 day = "Saturday";
                 break;
         }
+        System.out.println(date + " " + Array[monthNumber - 1] + " " + century + year + " was a " + day + "!");
 
 
         scanner.close();
