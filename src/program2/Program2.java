@@ -10,6 +10,7 @@ public class Program2 {
         int paise = (int) priceInDecimal % 100;
         priceInDecimal /= 100;
         int rupees = (int) priceInDecimal;
+        System.out.println(rupees + " Rupees and " + paise + " Paise");
 
 
 
