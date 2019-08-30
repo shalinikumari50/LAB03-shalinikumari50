@@ -7,6 +7,7 @@ public class Program3 {
         Scanner scanner = new Scanner(System.in);
         double temperatureInFahrenheit = scanner.nextDouble();
         double temperatureInCelsius = (temperatureInFahrenheit - 32) / 1.8;
+        System.out.println(temperatureInCelsius);
 
 
 
