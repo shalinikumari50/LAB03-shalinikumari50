@@ -11,6 +11,7 @@ public class Program1 {
             sum += 1.0 / i;
 
         }
+        System.out.println("Sum of the series is " + sum);
 
 
 
